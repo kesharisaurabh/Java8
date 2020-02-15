@@ -1,0 +1,7 @@
+
+demo1 have default scl method interface
+demo2 also have default scl method interface
+
+In define we create dimond problem but it get resolved in java 8 by overriding scl of any one of implimented interface 
+
+Third rule of java 8 is when we extend define class and impli demo1 both have scl method so it will give priority to method first then interface
